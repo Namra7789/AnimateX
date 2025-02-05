@@ -1,6 +1,9 @@
 # AnimateX
 AnimateX is an innovative web-based application designed to bring creativity and dynamic interaction to web content. It offers a variety of animation effects that can be applied to elements on the page, enabling developers to create engaging and interactive user experiences with minimal effort.
 
+## Live Demo  
+[🌐 Visit the Live Website](https://animatex.onrender.com/)
+
 ## Features
 - **Wide range of animations**: Includes slide, fade, zoom, and more.
 - **Easy to integrate**: Just include the library and use simple classes to add animations.
